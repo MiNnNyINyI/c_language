@@ -8,6 +8,7 @@ int main() {
     scanf("%d", &row);
 
     patterm1(row);
+    patterm1(row);
 
     return 0;
 }
